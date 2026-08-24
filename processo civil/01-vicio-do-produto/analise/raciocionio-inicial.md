@@ -1,4 +1,4 @@
-Aqui fiz um raciociocinio inicial respondendo a estas questões:
+## Aqui fiz um raciociocinio inicial respondendo a estas questões: ##
 
 1. Quem será o autor?
 2. Quem será o réu?
@@ -10,7 +10,7 @@ Aqui fiz um raciociocinio inicial respondendo a estas questões:
 8. Onde essa ação deveria ser proposta?
 
 
-Aqui as respostas:
+**Aqui as respostas:**
 
 1. João da Silva
 2. Techmais Comercio Eletrônico Ltda 
@@ -21,7 +21,7 @@ Aqui as respostas:
 7. A restituição do valor para aquisição de um novo
 8. No Juizado Especial
 
-- Análise da IA:
+## - Análise da IA: ## 
 
 Muito bom. Para uma primeira tentativa, você identificou a estrutura principal do problema. Agora vamos corrigir com calma, porque há algumas sutilezas aqui que são justamente o tipo de coisa que você precisa aprender a enxergar antes de escrever a petição.
 Vou avaliar ponto a ponto.
@@ -116,15 +116,16 @@ TechMais Comércio Eletrônico Ltda. possui sede em Manaus/AM.
 Agora a questão fica mais fácil.
 
 📊 Seu resultado
-Questão	Avaliação
-Autor	✅
-Réu	✅
-Relação jurídica	✅
-Legislação	🟢 Correto, mas precisa especificar
-Ação	🟡 Precisa ajustar
-Pedidos	🟢 Muito bom
-Tutela provisória	❌ Confundiu com pedido definitivo
-Juizado Especial	🟡 Correto como possibilidade, mas falta fundamentação
+
+Questão	Avaliação:
+* Autor	✅
+* Réu	✅
+* Relação jurídica	✅
+* Legislação	🟢 Correto, mas precisa especificar
+* Ação	🟡 Precisa ajustar
+* Pedidos	🟢 Muito bom
+* Tutela provisória	❌ Confundiu com pedido definitivo
+* Juizado Especial	🟡 Correto como possibilidade, mas falta fundamentação
 
 Para uma primeira tentativa: muito bom.
 E você já identificou o ponto mais importante do caso: o vício do produto e a pretensão de restituição do dinheiro.
@@ -150,9 +151,10 @@ Isso é suficiente para gerar dano moral ou seria apenas um mero aborrecimento?
 Não precisa acertar. Defenda sua posição.
 Depois dessas três respostas, vamos para a próxima etapa: vou te ensinar a montar o esqueleto da petição inicial — endereçamento, qualificação, fatos, fundamentos jurídicos, pedidos, valor da causa e fechamento — e aí você vai escrever a sua primeira petição inteira sozinho.
 
-Minha resposta foi essa aqui:
+## Minha resposta foi essa aqui: ##
 
-Questão A:
+**Questão A:**
+
 No momento que vi a questão eu tinha um pré entendimento do que se tratava, mas ainda assim fiz uma pesquisa para confirmar:
 
 O vício oculto é um defeito de fabricação ou de origem que não pode ser visto no momento da compra. Ele aparece apenas depois de algum tempo de uso normal do produto ou ao longo dos dias.
@@ -167,14 +169,16 @@ Um cano que vaza dentro da parede de uma casa logo depois da compra do imóvel.
 
 Dito isso, me confirmou no meu ponto de vista que se tratava de um vicio oculto, já que o produto foi apresentar a falha dias após o uso, voltando a apresentar novamente a falha depois de um reparo, o que eu consideraria não ser um vicio oculto, se a falha tivesse sido ocasionada por um evento que pudesse estressar o aparelho, ou se no momento da comprar ele apresentasse a falha logo de cara.
 
-Questão B
+**Questão B:**
+
 O CDC em seu Art. 18, parágrafo primeiro determina que se o vicio nao for sanado em 30 dias o consumidor pode exigir alternadamente a subsituição do produto ou a restituição imediata do valor
 
-Questão C
+**Questão C:**
+
 Eu acredito que gerou sim dano moral, veja celular hoje em dia não é mero capricho, objeto de entretenimento, mas ferramenta essencial no nosso dia-a-dia, João nesses 32 dias, além dos demais descritos ficou sem poder acessar sua conta bancária, realizar transferencias via PIX, acessar suas redes sociais, falar com amigos e familiares (já que o principal meio de comunicacao no BRasil hoje é o Whatsapp), realizar ligações, receber notificações pelo email de contas a pagar, recebimentos e etc.
 Para todas essas atividades ele teve que ir presencialmente a agencias, utilizar telefone emprestado, pedir para terceiros passarem recados, acessar as coisas de dispositivos de terceiros ou em cyber cafes, enfim gerou sim um grande transtorno na vida de Joao
 
-A resposta que ela me entregou sobre o caso:
+## A resposta que ela me entregou sobre o caso: ##
 
 Agora sim. Sua resposta mostra que você já está começando a fazer o que um bom advogado precisa fazer: não apenas identificar a regra, mas conectar a regra aos fatos concretos.
 Vou corrigir com um pouco mais de rigor agora, porque você já trouxe argumentos jurídicos.
@@ -261,33 +265,25 @@ Observe a sequência:
 8. João ficou obrigado a continuar tentando solucionar um problema que deveria ter sido resolvido pelo fornecedor.
 
 Esse conjunto de circunstâncias é muito mais forte para sustentar o dano moral.
+
 ⚠️ Mas existe uma coisa que quero que você perceba
-Você fez uma coisa muito comum entre estudantes de Direito:
-pesquisou uma tese e encontrou argumentos que confirmam sua conclusão.
+
+Você fez uma coisa muito comum entre estudantes de Direito: pesquisou uma tese e encontrou argumentos que confirmam sua conclusão.
 Isso não é necessariamente ruim, mas, quando estivermos treinando nossas petições, quero que você faça algo diferente.
 Sempre que você defender uma tese, pergunte:
 "O que o advogado do outro lado diria?"
-Então vamos fazer isso agora.
-Você é o advogado da TechMais.
-Eu quero que você tente destruir a tese de dano moral que você acabou de apresentar.
-Imagine que você está escrevendo a contestação:
-"Excelentíssimo Senhor Doutor Juiz..."
-E precisa defender a empresa.
-Qual seria seu argumento para dizer que NÃO existe dano moral?
-Não precisa pesquisar.
-Quero que você faça isso com o conhecimento que você tem agora.
-E tem uma segunda coisa que quero corrigir antes de avançarmos
-Você respondeu anteriormente:
-"7. A restituição do valor para aquisição de um novo"
-Aqui eu quero que você não abandone essa questão ainda.
-Agora que entendemos melhor o caso, pense novamente:
-João pode pedir alguma coisa ao juiz antes da sentença, em tutela provisória?
-Não precisa necessariamente existir uma tutela. Quero que você raciocine:
 
-Qual seria a medida?
-Qual seria a urgência?
-Qual seria o risco para João?
-Qual seria o fundamento?
+Então vamos fazer isso agora.
+* Você é o advogado da TechMais.
+* Eu quero que você tente destruir a tese de dano moral que você acabou de apresentar.
+* Imagine que você está escrevendo a contestação: "Excelentíssimo Senhor Doutor Juiz..." E precisa defender a empresa.
+* Qual seria seu argumento para dizer que NÃO existe dano moral? Não precisa pesquisar. Quero que você faça isso com o conhecimento que você tem agora.
+* E tem uma segunda coisa que quero corrigir antes de avançarmos. Você respondeu anteriormente: "7. A restituição do valor para aquisição de um novo". Aqui eu quero que você não abandone essa questão ainda. Agora que entendemos melhor o caso, pense novamente: João pode pedir alguma coisa ao juiz antes da sentença, em tutela provisória? Não precisa necessariamente existir uma tutela. Quero que você raciocine:
+
+* Qual seria a medida?
+* Qual seria a urgência?
+* Qual seria o risco para João?
+* Qual seria o fundamento?
 
 Se você concluir que não há tutela provisória adequada, tudo bem também.
 Portanto, suas duas próximas tarefas são:
