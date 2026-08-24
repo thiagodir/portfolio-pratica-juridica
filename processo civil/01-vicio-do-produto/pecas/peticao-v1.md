@@ -26,6 +26,14 @@ Resignado com o produto, o Sr. João entrou novamente em contato com a TechMais 
 
 ---
 
+No dia 10 de Março de 2026, o Sr. João da Silva, através do site da empresa TechMais comércio eletrônico, efetuou a compra de um telefone celular no valor de R$2.800,00 (Dois mil e oitocentos reais), integralmente pagos pelo cartão de crédito. O produto foi entregue no dia 15 de março de 2026.
+
+Durante aproximadamente 2 meses o aparelho apresentou funcionamento normal. Contudo, no dia 20 de maio de 2026, o aparelho passou a apresentar problema desligando sozinho diversas vezes durante o dia e posteriormente, deixou de ligar.
+
+O Sr. João entrou em contato com a TechMais e foi orientado a encaminhar o aparelho para a assistência técnica. O aparelho permaneceu na assistência por mais de 30 dias. Ao recebê-lo de volta, o Sr. João fez uso do mesmo por mais quatro dias, quando voltou a apresentar o mesmo defeito, deixando de funcionar.
+
+Diante da reincidência do defeito com o produto, o Sr. João entrou novamente em contato com a TechMais para encontrar uma solução definitiva ou substituição do aparelho. A empresa solicitou que o Sr. João enviasse pela segunda vez o aparelho para a assistência técnica e afirmou que não faria a troca do produto e nem restituiria o valor pago.
+
 ## Fundamentos Jurídicos ##
 
 À Fazer
